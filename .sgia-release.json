@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "010445cd82d53467b8ecfcd75be7825679d5572d",
+  "source_revision": "ab12a9f510426b8e5afa65d5e7d859356b334ccb",
   "files": [
     ".nojekyll",
     "assets/app.js",
@@ -13,6 +13,7 @@
     "assets/characters.js",
     "assets/community.js",
     "assets/content-i18n.js",
+    "assets/editorial.css",
     "assets/emblem.svg",
     "assets/facility-i18n.js",
     "assets/floor-plans.js",
@@ -27,6 +28,7 @@
     "assets/model.js",
     "assets/monitor.js",
     "assets/noise.svg",
+    "assets/personnel-design.js",
     "assets/portal.css",
     "assets/profile-i18n.js",
     "assets/runtime.js",
