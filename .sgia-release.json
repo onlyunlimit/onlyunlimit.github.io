@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "adf2dbeedae92b464e9aa71c94eb8c971136f44d",
+  "source_revision": "fe8b3f4c641738b6dbf4da93ef0346b5452ff146",
   "files": [
     ".nojekyll",
     "assets/agencies.js",
@@ -13,12 +13,14 @@
     "assets/art/silver-emblem.webp",
     "assets/audio.js",
     "assets/characters.js",
+    "assets/community-media.js",
     "assets/community.js",
     "assets/content-i18n.js",
     "assets/editorial.css",
     "assets/emblem.svg",
     "assets/evidence.js",
     "assets/facility-i18n.js",
+    "assets/fan-community.css",
     "assets/floor-plans.js",
     "assets/forensic.css",
     "assets/forensics.js",
