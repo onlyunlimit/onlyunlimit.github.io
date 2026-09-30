@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "e08c748036524f69f86c98e85b55ea89da2e1f2e",
+  "source_revision": "df6149ddc2f79ee7b7d69a593ed1a05227c02e9a",
   "files": [
     ".nojekyll",
     "assets/agencies.js",
@@ -25,6 +25,7 @@
     "assets/forensic.css",
     "assets/forensics.js",
     "assets/game-ui.css",
+    "assets/geo-model.js",
     "assets/guide.js",
     "assets/hardware.js",
     "assets/i18n.js",
@@ -42,8 +43,11 @@
     "assets/personnel-design.js",
     "assets/portal.css",
     "assets/profile-i18n.js",
+    "assets/report-map.js",
     "assets/runtime.js",
     "assets/service-config.js",
+    "assets/staff-board.js",
+    "assets/staff-tags.js",
     "assets/transmissions.js",
     "assets/units.js",
     "assets/vendor/leaflet.css",
