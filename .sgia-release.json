@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "6645386635334cc186002e849eb624b231a0dae1",
+  "source_revision": "4b8e7686dbc5fd477e0240a2ab5d0473050829f5",
   "files": [
     ".nojekyll",
     "assets/agencies.js",
@@ -43,6 +43,10 @@
     "assets/personnel-design.js",
     "assets/portal.css",
     "assets/profile-i18n.js",
+    "assets/purikura-engine.js",
+    "assets/purikura-gallery.js",
+    "assets/purikura.css",
+    "assets/purikura.js",
     "assets/report-map.js",
     "assets/runtime.js",
     "assets/service-config.js",
@@ -77,6 +81,7 @@
     "origin.html",
     "orpe.html",
     "portal.html",
+    "purikura.html",
     "quote.html",
     "records.html",
     "school/index.html",
