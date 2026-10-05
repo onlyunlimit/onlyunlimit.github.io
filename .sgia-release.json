@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "696f1542ea925ee5da34ff6c5b496747432784a7",
+  "source_revision": "ade67cea9bcf45203016d82af978f46ebf24c2f6",
   "files": [
     ".nojekyll",
     "assets/agencies.js",
@@ -55,6 +55,7 @@
     "assets/purikura-crop.js",
     "assets/purikura-engine.js",
     "assets/purikura-gallery.js",
+    "assets/purikura-site-gallery.js",
     "assets/purikura.css",
     "assets/purikura.js",
     "assets/report-map.js",
@@ -91,6 +92,7 @@
     "origin.html",
     "orpe.html",
     "portal.html",
+    "purikura-sgia.html",
     "purikura.html",
     "quote.html",
     "records.html",

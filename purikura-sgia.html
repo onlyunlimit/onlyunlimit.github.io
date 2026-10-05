@@ -3,13 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>PHOTO CLUB · 프리쿠라 메이커</title>
+<title>SGIA 미니 · PHOTO CLUB · 프리쿠라 메이커</title>
 <link rel="stylesheet" href="assets/purikura.css">
 <script type="module" src="assets/purikura.js">
 </script>
 </head>
-<body>
+<body data-sgia-gallery>
 <header class="booth-header">
+<a href="portal.html">← SGIA</a>
 <span>STICKER PHOTO STUDIO / 001</span>
 <span class="on-air">● OPEN ALL DAY</span>
 </header>
@@ -40,6 +41,13 @@
 <div class="url-row">
 <input id="photo-url" type="url" placeholder="https://… 이미지 주소" aria-label="사진 이미지 주소">
 <button id="photo-link">불러오기</button>
+</div>
+<label>사이트 사진<select id="gallery-select" aria-label="사이트 사진 선택">
+</select>
+</label>
+<div class="two">
+<button id="gallery-add">선택 사진 추가</button>
+<button id="gallery-random">⚄ 랜덤 사진</button>
 </div>
 <small class="hint">파일은 JPG·PNG·WebP, 장당 20MB까지. 링크는 외부 사용이 허용된 이미지 주소를 넣어 주세요.</small>
 </details>
@@ -154,7 +162,7 @@
 <div id="empty-note">
 <span>♡</span>
 <b>오늘의 추억을 넣어 주세요</b>
-<small>내 사진을 올리거나 이미지 링크로 시작!</small>
+<small>사진을 올리거나 랜덤 사진으로 시작!</small>
 </div>
 </div>
 <label class="check snap-toggle">
@@ -298,7 +306,7 @@
 </section>
 </aside>
 </div>
-<footer>PHOTO CLUB ✦ CREATE A LITTLE HAPPINESS
+<footer>PHOTO CLUB ✦ CREATE A LITTLE HAPPINESS <a href="portal.html">홈페이지로 돌아가기 ↗</a>
 <span>작업 내용은 이 창에서만 유지돼요. 나가기 전에 PNG로 저장해 주세요.</span>
 </footer>
 </main>
