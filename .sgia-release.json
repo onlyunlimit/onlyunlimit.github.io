@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "e76e274cee85620e541a49266d7c30a9b9647f92",
+  "source_revision": "70073050eb27310fb9ad7a61e4e902124c66ccc5",
   "files": [
     ".nojekyll",
     "assets/agencies.js",
@@ -40,6 +40,7 @@
     "assets/hardware.js",
     "assets/i18n.js",
     "assets/image-surfaces.js",
+    "assets/incident-store.js",
     "assets/incident-ui.js",
     "assets/interface-i18n.js",
     "assets/intro.css",
