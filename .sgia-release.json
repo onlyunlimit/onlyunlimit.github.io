@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "f26d9e41812184cea3377498331e372943678db2",
+  "source_revision": "7c6ae1dcaf664eda9bf9c0d60355e5a5200a03c6",
   "files": [
     ".nojekyll",
     "assets/agencies.js",
@@ -16,6 +16,7 @@
     "assets/blackjack-i18n.js",
     "assets/characters.js",
     "assets/community-media.js",
+    "assets/community-translation.js",
     "assets/community.js",
     "assets/content-i18n.js",
     "assets/editorial.css",
