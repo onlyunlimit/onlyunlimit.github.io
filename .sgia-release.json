@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "c2bb9c66b839dcddae37f65e3e92c10225c5c14e",
+  "source_revision": "c05c4b987974b9eebc0eff441313a00d093ec34a",
   "files": [
     ".nojekyll",
     "assets/agencies.js",
@@ -54,6 +54,8 @@
     "assets/art/resolved-seal.webp",
     "assets/art/silver-emblem.webp",
     "assets/audio.js",
+    "assets/az-reader.css",
+    "assets/az-reader.js",
     "assets/blackjack-i18n.js",
     "assets/characters.js",
     "assets/community-media.js",
@@ -90,6 +92,9 @@
     "assets/lifecycle.js",
     "assets/manual-visuals.js",
     "assets/media.js",
+    "assets/member-archive-data.js",
+    "assets/member-archive.css",
+    "assets/member-archive.js",
     "assets/mentions.js",
     "assets/model.js",
     "assets/monitor.js",
