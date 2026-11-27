@@ -1,6 +1,6 @@
 {
   "project": "onlyunlimit-sgia",
-  "source_revision": "a720342664fef2943315d58483c7d80f1f2a334d",
+  "source_revision": "90ece0c3ec8444a7dc44998654ad423023ed9bb9",
   "files": [
     ".nojekyll",
     "assets/agencies.js",
@@ -107,6 +107,7 @@
     "assets/music-artwork.js",
     "assets/music-request.js",
     "assets/noise.svg",
+    "assets/obsidus-data.js",
     "assets/personnel-design.js",
     "assets/playlist-page.js",
     "assets/playlist-themes.js",
